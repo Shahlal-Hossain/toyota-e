@@ -1,0 +1,266 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.pages-1{
+    background-image: url(./images/Toyota-Electric-1.jpg);
+    width: 100vw;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+.pages-1 div{
+    margin-bottom: 40px;
+    width: 50vw;
+    font-family: "Times New Roman", Times, serif;
+}
+.H1{
+    margin-top: 50px;
+    color: rgb(80, 3, 82);
+    font-family: "Times New Roman", Times, serif;
+}
+.pages-2{
+    width: 100vw;
+    height: 70vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: start;
+}
+.images-2{
+    width: 100vw;
+    height: 70vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.images-2 h1{
+    background: linear-gradient(to right,#15e9e9d9 30%,#fc08c7d9 70%);
+    border-top-right-radius: 17rem;
+    border-bottom-right-radius: 17rem;
+    width: 30vw;
+    height: 70vh;
+}
+.img{
+    background-image: url(./images/toyota-ultra-compact-bev-2.webp);
+    width: 35vw;
+    height: 70vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.pagesText-2{
+    width: 60vw;
+    position: relative;
+}
+.pagesText-2 h1{
+    margin-bottom: 20px;
+    font-family: "Times New Roman", Times, serif;
+}
+.pagesText-2 p{
+   width: 400px;
+   margin-left: 30px;
+   font-family: Times,Monospace;
+}
+.btn-2{
+    padding: 12px 50px;
+    background: linear-gradient(to right,#15e9e9d9 30%,#fc08c7d9 70%);
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 30px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.pages-3{
+    width: 100vw;
+    height: 80vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: start;
+}
+.images-3{
+    background-image: url(./images/message-editor_3.webp);
+    width: 100vw;
+    height: 80vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.pagesText-3{
+    width: 40vw;
+    padding: 50px;
+}
+.pagesText-3 h1{
+    margin-bottom: 20px;
+    font-family: "Times New Roman", Times, sans-serif;
+}
+.pagesText-3 p{
+    font-family: "Times New Roman", Times,serif;
+}
+.btn-3{
+    padding: 12px 50px;
+    background: linear-gradient(to right,#c43030d9 30%,#061500d9 70%);
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 30px;
+    margin-top: 30px;
+}
+.images-4{
+    background-image: url(./images/20160927_01_01_0-4.jpg);
+    width: 100vw;
+    height: 80vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.btn-4{
+    padding: 12px 50px;
+    background: linear-gradient(to right,#0dfe75d9 30%,#e808fcd9 70%);
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 30px;
+    margin-top: 30px;
+}
+.images-5{
+    background-image: url(./images/Toyota-Electric-9.webp);
+    width: 100vw;
+    height: 80vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.pages-6{
+    background: linear-gradient(to right,#15e9e9d9 30%,#fc08c7d9 70%);
+    width: 100vw;
+    height: 90vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: start;
+}
+.pagesText6-1{
+    width: 40vw;
+    padding: 60px;
+    font-family: "Times New Roman", Times, sans-serif;
+    font-size: 22px;
+}
+.pagesText6-2{
+    height: 50vh;
+    width: 50vw;
+    background-color: azure;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    padding-left: 10rem;
+    border-bottom-left-radius: 15rem;
+    border-top-left-radius: 15rem;
+}
+.pagesText6-2 h1{
+    font-size: 50px;
+    font-family: "Times New Roman", Times, sans-serif;
+}
+.images-2 h2{
+    background: linear-gradient(to right,#038620d9 30%,#d7cd4bd9 70%);
+    border-top-right-radius: 17rem;
+    border-bottom-right-radius: 17rem;
+    width: 30vw;
+    height: 70vh;
+}
+.img-1{
+    background-image: url(./images/toyota-ultra-compact-bev-2.webp);
+    width: 35vw;
+    height: 70vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.pagesText-2{
+    width: 60vw;
+    position: relative;
+}
+.pagesText-2 h1{
+    margin-bottom: 20px;
+    font-family: "Times New Roman", Times, serif;
+}
+.pagesText-2 p{
+   width: 400px;
+   margin-left: 30px;
+   font-family: Times,Monospace;
+}
+.btn-5{
+    padding: 12px 50px;
+    background: linear-gradient(to right,#15e935d9 30%,#1307bad9 70%);
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 30px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.text{
+    padding-left: 20rem;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-family: "Times New Roman", Times, serif;
+}
+.gallery{
+    width: 100vw;
+    height: 187.5vh;
+}
+.text h1{
+    padding: 20px 0;
+}
+.photo{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.photo img{
+    width: 400px;
+    height: 300px;
+}
+.footer{
+    text-align: center;
+    background-color: #0c0101;
+    height: 60vh;
+    width: 100vw;
+    padding-top: 50px;
+    color: whitesmoke;
+}
+.footer img{
+    width: 150px;
+}
+.headline{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 40px;
+}
+.icones{
+   padding-top: 50px;
+}
